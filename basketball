@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pasión por el Basquetbol</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <center>
+        <h1>El Mundo del Basquetbol</h1>
+    </center>
+
+    <hr>
+
+    <h2>Historia y Orígenes</h2>
+    <p>
+        El basquetbol fue inventado en 1891 por James Naismith, un instructor de educación física canadiense, en Springfield, Massachusetts. 
+        Buscaba un deporte que se pudiera jugar bajo techo durante los crudos inviernos de la región para mantener a sus alumnos activos. 
+        Originalmente, se utilizaban canastas de duraznos y un balón de fútbol, sentando las bases de lo que hoy es un fenómeno global.
+    </p>
+    <center>
+    <img src="https://images.unsplash.com/photo-1546519638-68e109498ffc?w=500" alt="Balón de basquetbol profesional" width="300">
+    </center>
+    <br>
+    <a href="https://www.fiba.basketball/" target="_blank">Visita el sitio oficial de la FIBA</a>
+
+    <hr>
+
+    <h2>Reglas Fundamentales</h2>
+    <p>
+        El objetivo principal es anotar puntos introduciendo un balón en un aro situado a 3.05 metros de altura. Los equipos están formados por cinco 
+        jugadores en cancha y el balón debe desplazarse rebotándolo contra el suelo o mediante pases entre compañeros. Existen penalizaciones 
+        estrictas como las faltas personales, el caminar sin botar el balón o permanecer más de tres segundos en la zona restringida del rival.
+    </p>
+    <center>
+    <img src="https://images.unsplash.com/photo-1519861531473-9200262188bf?w=500" alt="Cancha de basquetbol" width="300">
+    </center>
+    <br>
+    <a href="https://www.nba.com/news/official-nba-rulebook" target="_blank">Consulta el reglamento oficial de la NBA</a>
+
+    <hr>
+
+    <h2>Las Leyendas del Deporte</h2>
+    <p>
+        A lo largo de las décadas, figuras como Michael Jordan, Kobe Bryant y LeBron James han elevado el nivel de este deporte a alturas insospechadas. 
+        Jordan es ampliamente considerado el mejor de todos los tiempos por su dominio en los años 90 con los Chicago Bulls, ganando seis campeonatos. 
+        Más recientemente, el juego ha evolucionado hacia el tiro de larga distancia, liderado por especialistas como el base Stephen Curry.
+    </p>
+    <center>
+    <img src="https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=500" alt="Jugador de basquetbol" width="300">
+    </center>
+    <br>
+    <a href="https://www.hoophall.com/" target="_blank">Explora el Salón de la Fama del Baloncesto</a>
+
+    <hr>
+
+    <h2>La NBA y el Impacto Global</h2>
+    <p>
+        La National Basketball Association (NBA) es la liga profesional más importante del mundo, atrayendo a los mejores talentos de todos los continentes. 
+        Actualmente, el basquetbol es uno de los deportes más practicados en el planeta, fomentando no solo la competencia física sino también valores 
+        como el trabajo en equipo y la disciplina. Las ligas europeas y asiáticas también han crecido exponencialmente en nivel técnico y popularidad.
+    </p>
+
+    <hr>
+
+</body>
+</html>
